@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "bb4e88daba82377652e159a1",
+  "owner": "xrfqywhwctd",
+  "repo": "page-6c05298aceae111d01a65afb",
+  "title": "clash verge官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6c05298aceae111d01a65afb",
+      "a": "唯云四杰(Imm)",
+      "b": "clash verge官网",
+      "entity": "唯云四杰(Imm)",
+      "brand": "clash verge官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "312782d485b7a129f964927953cdf6980c71bc3e5aa0478d162289fb18fcdc8a",
+      "content": {
+        "primary_entity": "唯云四杰(Imm)",
+        "keyword1": "唯云四杰(Imm)",
+        "keyword2": "clash verge官网",
+        "content": {
+          "AI_DESCRIPTION": "，唯云四杰(Imm)面向海外网络加速场景，提供基础版、旗舰版与团队版三档订阅。基础版每月100GB流量、支持3台设备；旗舰版每月300GB、支持5台设备并带IPLC专线游戏优化；团队版每月1000GB、支持20台设备。可按月或按年付费，年付分别约¥150、¥350、¥850。",
+          "AI_HERO_SUBTITLE": "唯云四杰三档订阅任选",
+          "AI_HERO_INTRO": "唯云四杰(Imm)提供基础版、旗舰版、团队版三档海外加速订阅，覆盖每月100GB到1000GB流量与3到20台设备在线。用户可按设备数量、流量需求和付费周期选择合适套餐，并借助常见客户端导入订阅使用。",
+          "AI_VISUAL_TITLE": "唯云四杰订阅加速",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖轻量到团队需求",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案节省月度开支",
+          "AI_FEATURES_TITLE": "唯云四杰使用特点",
+          "AI_FEATURES_INTRO": "从流量、设备与周期三个角度快速匹配套餐。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "每月100GB适合轻度浏览，300GB适合多设备日常，1000GB适合团队共享。",
+          "AI_FEATURE_TITLE_2": "按设备定档位",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台，家庭或小型团队可按同时在线数选择。",
+          "AI_FEATURE_TITLE_3": "按周期看成本",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付约¥150、¥350、¥850，长期使用可优先考虑年付方案。",
+          "AI_PLANS_TITLE": "唯云四杰套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备与权益上逐级提升，可按需对比。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据系统平台选择合适的客户端导入唯云四杰订阅，不同平台可参照各自客户端文档配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先选服务，再确认设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "依据流量与设备数量从基础版、旗舰版或团队版中选定一档订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备系统与在线数量在所选套餐支持范围内。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅信息，完成节点连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对唯云四杰套餐",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选定档位，即可开始配置订阅。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "如何选择基础版或旗舰版？",
+          "AI_FAQ_ANSWER_1": "如果只有1至3台设备且每月流量在100GB以内，基础版即可；若需要5台设备或IPLC专线游戏加速，建议选旗舰版。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以几台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版支持5台设备，团队版支持20台设备同时在线。",
+          "AI_FAQ_QUESTION_3": "年付套餐怎么收费？",
+          "AI_FAQ_ANSWER_3": "基础版年付150元，旗舰版年付350元，团队版年付850元；相比月付，年付可减少续费操作。",
+          "AI_FAQ_QUESTION_4": "客户端在哪里下载？",
+          "AI_FAQ_ANSWER_4": "请根据手机、电脑等设备类型，从客户端列表和对应使用文档中获取软件及订阅配置说明。",
+          "AI_FAQ_QUESTION_5": "团队版有哪些额外功能？",
+          "AI_FAQ_ANSWER_5": "团队版提供VIP高带宽节点、企业定制路由以及专属客户经理服务，适合小型团队协作使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ceed8e9468edeae72d925533c516f23f871032c5715d8179deeca6494a18ab2c",
+    "sitemap.xml": "e01279038792716971277ce7a189329b86fc22b3bd7670b85bcdd7b5095da7c3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "b5954ef70b25cd8627b9222083bafca32f4373d48a5a13e6ab5717fcf72a97fa"
+}
